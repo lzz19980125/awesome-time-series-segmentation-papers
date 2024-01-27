@@ -26,4 +26,3 @@ NOTE: the ranking has no particular order.
 |    Survey     |            *CSUR '11*             |                   Time-series data mining                    |                             None                             |
 |    Dataset    |     *DARLI-AP@EDBT/ICDT '23*      | Time Series Segmentation Applied to a New Data Set for Mobile Sensing of Human Activities 🌟 | [MOSAD](https://github.com/ermshaua/mobile-sensing-human-activity-data-set) |
 |  **Dataset**  |             *GI '04*              |   Segmenting Motion Capture Data into Distinct Behaviors 🌟   | [Website](http://graphics.cs.cmu.edu/projects/segmentation/) |
-|               |                                   |                                                              |                                                              |
