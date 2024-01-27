@@ -1,0 +1,1 @@
+# awesome-multivariate-time-series-segmentation-algorithms
