@@ -38,4 +38,3 @@ NOTE: the ranking has no particular order.
 |    Survey     |            *EAAI '11*             |             A review on time series data mining              |                             None                             |
 |    Survey     |            *CSUR '11*             |                   Time-series data mining                    |                             None                             |
 |    Dataset    |             *GI '04*              |    Segmenting Motion Capture Data into Distinct Behaviors    | [Website](http://graphics.cs.cmu.edu/projects/segmentation/) 🌟 |
-|               |                                   |                                                              |                                                              |
