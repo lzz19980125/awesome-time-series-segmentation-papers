@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-This repository contains a reading list of papers on **Time Series Segmentation**.  **This repository is still being continuously improved. **
+This repository contains a reading list of papers on **Time Series Segmentation**. **This repository is still being continuously improved.**
 
 As a crucial time series preprocessing technique, **semantic segmentation** divides poorly understood time series into several discrete and homogeneous segments. This approach aims to uncover latent temporal evolution patterns, detect unexpected regularities and regimes, thereby rendering the analysis of massive time series data more manageable. 
 
@@ -18,7 +18,7 @@ In the field of time series research, unlike time series forecasting, anomaly de
 
 ## Some Additional Information
 
-🚩 2024/1/27: **I have marked some recommended papers / dataset / implementation with 🌟 (Just my personal preference 😉).**
+🚩 2024/1/27: **I have marked some recommended papers / datasets / implementations with 🌟 (Just my personal preference 😉).**
 
 ## Survey & Evaluation
 
