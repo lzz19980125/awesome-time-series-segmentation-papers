@@ -133,13 +133,20 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |    Venue    |             Paper Title and Paper Interpretation             |                  Code                  |
 | :----------------------------------------------------------: | :---------: | :----------------------------------------------------------: | :------------------------------------: |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *TPAMI '12* | Hierarchical Aligned Cluster Analysis for Temporal Clustering of Human Motion | [HACA](https://www.f-zhou.com/tc.html) |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *TPAMI '12* | Hierarchical Aligned Cluster Analysis for Temporal Clustering of Human Motion 🌟 | [HACA](https://www.f-zhou.com/tc.html) |
 
 ## [Chun-Tung Li](https://scholar.google.com/citations?hl=en&user=9qsSJ-0AAAAJ&view_op=list_works&sortby=pubdate) (CUHK)
 
 |                             TYPE                             |                Venue                |             Paper Title and Paper Interpretation             |                       Code                       |
 | :----------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: |
-| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | *ACM Trans. Comput. Healthcare '20* | mSIMPAD: Efficient and Robust Mining of Successive Similar Patterns of Multiple Lengths in Time Series | [mSIMPAD](https://github.com/chuntungli/mSIMPAD) |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | *ACM Trans. Comput. Healthcare '20* | mSIMPAD: Efficient and Robust Mining of Successive Similar Patterns of Multiple Lengths in Time Series 🌟 | [mSIMPAD](https://github.com/chuntungli/mSIMPAD) |
 |                        *Ph.D. Thesis*                        |           *ProQuest '21*            | Mobile sensing based human stress monitoring for smart health applications |                       None                       |
 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |           *IEEE MASS '21*           | Repetitive Activity Monitoring from Multivariate Time Series A Generic and Efficient Approach |                       None                       |
 
+## [Tong Hanghang](https://scholar.google.com/citations?hl=en&user=RaINcuUAAAAJ&view_op=list_works&sortby=pubdate) (UIUC)
+
+|                             TYPE                             |   Venue   |             Paper Title and Paper Interpretation             |                             Code                             |
+| :----------------------------------------------------------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *SDM '15* |      Fast Mining of a Network of Coevolving Time Series      | [dcmf](https://github.com/kokikwbt/dcmf/tree/master) (Unofficial) |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *KDD '15* | Facets: Fast comprehensive mining of coevolving high-order time |  [facets](https://github.com/kokikwbt/facets) (Unofficial)   |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *WWW '21* |                Network of Tensor Time Series                 |          [NET3](https://github.com/baoyujing/NET3)           |
