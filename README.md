@@ -83,14 +83,14 @@ NOTE: the ranking has no particular order.
 | ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) |   *WWW '17*    | AutoCyclone Automatic Mining of Cyclic Online Activities with Robust Tensor Factorization | [AutoCyclone](http://www.cs.cmu.edu/~tsubasat/code/AutoCyclone.zip) |
 
 ## [Liangzhe Chen](https://sites.google.com/view/liangzhechen) & [Anika Tabassum](https://scholar.google.com/citations?hl=zh-CN&user=4Aw4_1sAAAAJ&view_op=list_works&sortby=pubdate) (Virginia Tech, supervised by [B. Aditya Prakash](https://scholar.google.com/citations?hl=zh-CN&user=C-NftTgAAAAJ&view_op=list_works&sortby=pubdate))
-|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                           Code                            |
-| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :-------------------------------------------------------: |
-|                        *Ph.D. Thesis*                        | *ProQuest '21* | Explainable and Network-Based Approaches for Decision-making in Emergency Management |                           None                            |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *CIKM '21*   |    Actionable Insights in Urban Multivariate Time-series     |        [RaTSS](https://github.com/AdityaLab/RaTSS)        |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TIST '20*   | Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟  | [Cut-n-Reveal](https://github.com/AdityaLab/Cut-n-Reveal) |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *AAAI '18*   |           Automatic Segmentation of Data Sequences           |                           None                            |
-|                        *Ph.D. Thesis*                        | *ProQuest '18* |    Segmenting, Summarizing and Predicting Data Sequences     |                           None                            |
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *vt.edu '18*  |    Segmentations with Explanations for Outage Analysis 🌟     |                           None                            |
+|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                             Code                             |
+| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|                        *Ph.D. Thesis*                        | *ProQuest '21* | Explainable and Network-Based Approaches for Decision-making in Emergency Management |                             None                             |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *CIKM '21*   |    Actionable Insights in Urban Multivariate Time-series     |         [RaTSS](https://github.com/AdityaLab/RaTSS)          |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *TIST '20*   | Cut-n-Reveal: Time-Series Segmentations with Explanations 🌟  |  [Cut-n-Reveal](https://github.com/AdityaLab/Cut-n-Reveal)   |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *AAAI '18*   |           Automatic Segmentation of Data Sequences           | [DASSA](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/DASSA-master) |
+|                        *Ph.D. Thesis*                        | *ProQuest '18* |    Segmenting, Summarizing and Predicting Data Sequences     |                             None                             |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |  *vt.edu '18*  |    Segmentations with Explanations for Outage Analysis 🌟     |                             None                             |
 
 ## [Shohreh Deldari](https://scholar.google.com/citations?hl=zh-CN&user=250tnREAAAAJ&view_op=list_works&sortby=pubdate) (from [Cruise research group](https://cruiseresearchgroup.github.io/), RMIT ) &  [Flora D. Salim](https://scholar.google.com/citations?hl=zh-CN&user=Yz35RSYAAAAJ) (UNSW)
 
@@ -103,3 +103,43 @@ NOTE: the ranking has no particular order.
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *Knowl. Inf. Syst. '20*    | Unsupervised online change point detection in high-dimensional time series |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |     *WSDM Workshop '19*      | Inferring Work Routines and Behavior Deviations with Life-logging Sensor Data |                             None                             |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Pervasive Mob. Comput. '17* | Information gain-based metric for recognizing transitions in human activities 🌟 |  [IGTs](https://github.com/cruiseresearchgroup/IGTS-python)  |
+
+## [Peng Wang](https://scholar.google.com/citations?hl=en&user=fxcAZkoAAAAJ&view_op=list_works&sortby=pubdate) (fudan University)
+
+|                             TYPE                             |    Venue     |             Paper Title and Paper Interpretation             |                             Code                             |
+| :----------------------------------------------------------: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |  *ICDE '21*  | GRAB: Finding Time Series Natural Structures via A Novel Graph-based Scheme | [GRAB](https://github.com/lzz19980125/awesome-time-series-segmentation-papers/tree/main/GRAB-master) |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *SIGMOD '11* |              Finding Semantics in Time Series 🌟              |                             None                             |
+
+## [Arik Ermshaus](https://sites.google.com/view/arikermshaus) (Humboldt-Universität zu Berlin)
+
+|                             TYPE                             |          Venue           |           Paper Title and Paper Interpretation            |                             Code                             |
+| :----------------------------------------------------------: | :----------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |       *Arxiv '23*        | Raising the ClaSS of Streaming Time Series Segmentation 🌟 | [Clasp](https://github.com/ermshaua/classification-score-stream) |
+|                           Dataset                            | *ECML-PKDD Workshop '23* |   Human Activity Segmentation Challenge@ECML/PKDD’23 🌟    | [Challenge Link](https://ecml-aaltd.github.io/aaltd2023/challenge.html) |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |        *DMKD '23*        |     ClaSP: parameter-free time series segmentation 🌟      | [Clasp](https://sites.google.com/view/ts-parameter-free-clasp/) |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |        *CIKM '21*        |            ClaSP - Time Series Segmentation 🌟             |       [Clasp](https://sites.google.com/view/ts-clasp/)       |
+
+## [Li lei](https://lileicc.github.io/) (CMU)
+
+|                             TYPE                             |     Venue      |             Paper Title and Paper Interpretation             |                           Code                           |
+| :----------------------------------------------------------: | :------------: | :----------------------------------------------------------: | :------------------------------------------------------: |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *Neurips '13*  |  MLDS Multilinear Dynamical Systems for Tensor Time Series   |         [mlds](https://github.com/lileicc/mlds)          |
+|                        *Ph.D. Thesis*                        | *ProQuest '11* |      Fast Algorithms for Mining Co-evolving Time Series      |                           None                           |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *KDD '09*    | DynaMMo: Mining and Summarization of Coevolving Sequences with Missing Values 🌟 |      [dynammo](https://github.com/lileicc/dynammo)       |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *VLDB '10*   |      Parsimonious Linear Fingerprinting for Time Series      | [pliF](https://lileicc.github.io/software/plif-r345.zip) |
+
+## [Feng Zhou](https://www.f-zhou.com/) (CMU)
+
+|                             TYPE                             |    Venue    |             Paper Title and Paper Interpretation             |                  Code                  |
+| :----------------------------------------------------------: | :---------: | :----------------------------------------------------------: | :------------------------------------: |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *TPAMI '12* | Hierarchical Aligned Cluster Analysis for Temporal Clustering of Human Motion | [HACA](https://www.f-zhou.com/tc.html) |
+
+## [Chun-Tung Li](https://scholar.google.com/citations?hl=en&user=9qsSJ-0AAAAJ&view_op=list_works&sortby=pubdate) (CUHK)
+
+|                             TYPE                             |                Venue                |             Paper Title and Paper Interpretation             |                       Code                       |
+| :----------------------------------------------------------: | :---------------------------------: | :----------------------------------------------------------: | :----------------------------------------------: |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | *ACM Trans. Comput. Healthcare '20* | mSIMPAD: Efficient and Robust Mining of Successive Similar Patterns of Multiple Lengths in Time Series | [mSIMPAD](https://github.com/chuntungli/mSIMPAD) |
+|                        *Ph.D. Thesis*                        |           *ProQuest '21*            | Mobile sensing based human stress monitoring for smart health applications |                       None                       |
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |           *IEEE MASS '21*           | Repetitive Activity Monitoring from Multivariate Time Series A Generic and Efficient Approach |                       None                       |
+
