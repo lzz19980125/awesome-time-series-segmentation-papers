@@ -1,0 +1,5 @@
+debora sitting:3000
+jose_carlos standing:3000
+katia sittingdown:3000
+wallace walking:3000
+debora standingup:3000

@@ -1,0 +1,5 @@
+debora sitting:3000
+debora standing:3000
+debora sittingdown:3000
+debora walking:3000
+debora standingup:3000
