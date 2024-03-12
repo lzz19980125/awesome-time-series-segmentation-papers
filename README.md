@@ -2,6 +2,17 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)![Stars](https://img.shields.io/github/stars/lzz19980125/awesome-time-series-segmentation-papers)
 
+## Star History
+
+<a href="https://star-history.com/#lzz19980125/awesome-time-series-segmentation-papers&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+  </picture>
+</a>
+
+## Description
 This repository contains a reading list of papers on **Time Series Segmentation**. **This repository is still being continuously improved.**
 
 As a crucial time series preprocessing technique, **semantic segmentation** divides poorly understood time series into several discrete and homogeneous segments. This approach aims to uncover latent temporal evolution patterns, detect unexpected regularities and regimes, thereby rendering the analysis of massive time series data more manageable. 
