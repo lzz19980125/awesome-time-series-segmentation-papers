@@ -161,7 +161,8 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |   Venue   |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *WWW '21* |  Tensor time-series forecasting and anomaly detection with augmented causality  | None |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *Arxiv'24* |  Tensor time-series forecasting and anomaly detection with augmented causality  | None |
+| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *WWW'21* |                Network of Tensor Time Series                 | [NET3](https://github.com/baoyujing/NET3)![Stars](https://img.shields.io/github/stars/baoyujing/NET3) |
 | ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *SDM '15* |      Fast Mining of a Network of Coevolving Time Series      | [dcmf](https://github.com/kokikwbt/dcmf/tree/master) (Unofficial) ![Stars](https://img.shields.io/github/stars/kokikwbt/dcmf) |
 | ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *KDD '15* | Facets: Fast comprehensive mining of coevolving high-order time | [facets](https://github.com/kokikwbt/facets) (Unofficial) ![Stars](https://img.shields.io/github/stars/kokikwbt/facets) |
 
@@ -169,7 +170,6 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |             Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *Arxiv'24* |                Network of Tensor Time Series                 | [NET3](https://github.com/baoyujing/NET3)![Stars](https://img.shields.io/github/stars/baoyujing/NET3) |
 | ![spatio-temporal forecasting](https://img.shields.io/badge/-Tensor-blue) | *TKDE'24* | Discovering Dynamic Patterns From Spatiotemporal Data With Time-Varying Low-Rank Autoregression | [Vars](https://github.com/xinychen/vars)![Stars](https://img.shields.io/github/stars/xinychen/vars) |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *WWW '24*    | E2Usd: Efficient-yet-effective Unsupervised State Detection for Multivariate Time Series 🌟 | [E2Usd](https://github.com/AI4CTS/E2Usd)![Stars](https://img.shields.io/github/stars/AI4CTS/E2Usd) |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) |   *Information Fusion '24*    | MultiBEATS Blocks of eigenvalues algorithm for multivariate time series dimensionality reduction 🌟 | [MultiBEATS](https://github.com/auroragonzalez/multiBEATS)![Stars](https://img.shields.io/github/stars/auroragonzalez/multiBEATS) |
