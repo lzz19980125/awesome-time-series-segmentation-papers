@@ -29,6 +29,8 @@ In the field of time series research, unlike time series forecasting, anomaly de
 
 ## Some Additional Information
 
+🚩 2024/4/28: **In fact, due to the lack of large-scale public datasets with ground truth (except in the field of motion capture), most research in the area of time series segmentation is unsupervised, especially studies not based on deep learning. Currently, 95% of the research work included in this repository is unsupervised.**
+
 🚩 2024/1/27: **I have marked some recommended papers / datasets / implementations with 🌟 (Just my personal preference 😉).**
 
 ## Survey & Evaluation
