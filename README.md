@@ -39,6 +39,7 @@ NOTE: the ranking has no particular order.
 
 |     TYPE      |               Venue               |             Paper Title and Paper Interpretation             |                             Code                             |
 | :-----------: | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    Survey     |      *Comput. Mater. Con. '24*      | Unsupervised Time Series Segmentation: A Survey on Recent Advances  |                             None                             |
 |    Dataset    |     *DARLI-AP@EDBT/ICDT '23*      | Time Series Segmentation Applied to a New Data Set for Mobile Sensing of Human Activities 🌟 | [MOSAD](https://github.com/ermshaua/mobile-sensing-human-activity-data-set)![Stars](https://img.shields.io/github/stars/ermshaua/mobile-sensing-human-activity-data-set) |
 |    Dataset    |     *ECML-PKDD Workshop '23*      |     Human Activity Segmentation Challenge@ECML/PKDD’23 🌟     | [Challenge Link](https://ecml-aaltd.github.io/aaltd2023/challenge.html) |
 | Visualization |          *IEEE TVCG '21*          | MultiSegVA Using Visual Analytics to Segment Biologging Time Series on Multiple Scales |                             None                             |
