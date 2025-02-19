@@ -173,6 +173,7 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |             Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *AALTD '25* | Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP| [multivariate-clasp](https://github.com/ermshaua/multivariate-clasp)![Stars](https://img.shields.io/github/stars/ermshaua/multivariate-clasp)|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *SIGMOD '25* | ISSD: Indicator Selection for Time Series State Detection| [ISSD](https://github.com/Lab-ANT/ISSD)![Stars](https://img.shields.io/github/stars/Lab-ANT/ISSD)|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *ACM AAIA '24* | Detecting State Correlations between Heterogeneous Time Series| None|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Def Technol. '24* | An air combat maneuver pattern extraction based on time series segmentation and clustering analysis| None|
