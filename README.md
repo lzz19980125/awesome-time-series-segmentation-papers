@@ -39,7 +39,6 @@ NOTE: the ranking has no particular order.
 
 |     TYPE      |               Venue               |             Paper Title and Paper Interpretation             |                             Code                             |
 | :-----------: | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Evaluation | *AALTD '25* | Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP| [multivariate-clasp](https://github.com/ermshaua/multivariate-clasp)![Stars](https://img.shields.io/github/stars/ermshaua/multivariate-clasp)|
 |    Dataset    |     *DARLI-AP@EDBT/ICDT '23*      | Time Series Segmentation Applied to a New Data Set for Mobile Sensing of Human Activities 🌟 | [MOSAD](https://github.com/ermshaua/mobile-sensing-human-activity-data-set)![Stars](https://img.shields.io/github/stars/ermshaua/mobile-sensing-human-activity-data-set) |
 |    Dataset    |     *ECML-PKDD Workshop '23*      |     Human Activity Segmentation Challenge@ECML/PKDD’23 🌟     | [Challenge Link](https://ecml-aaltd.github.io/aaltd2023/challenge.html) |
 | Visualization |          *IEEE TVCG '21*          | MultiSegVA Using Visual Analytics to Segment Biologging Time Series on Multiple Scales |                             None                             |
@@ -133,6 +132,7 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |          Venue           |           Paper Title and Paper Interpretation            |                             Code                             |
 | :----------------------------------------------------------: | :----------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+| [multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *AALTD '25* | Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP| [multivariate-clasp](https://github.com/ermshaua/multivariate-clasp)![Stars](https://img.shields.io/github/stars/ermshaua/multivariate-clasp)|
 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |       *VLDB '24*        | Raising the ClaSS of Streaming Time Series Segmentation 🌟 | [Clasp](https://github.com/ermshaua/classification-score-stream)![Stars](https://img.shields.io/github/stars/ermshaua/classification-score-stream) |
 |                           Dataset                            | *ECML-PKDD Workshop '23* |   Human Activity Segmentation Challenge@ECML/PKDD’23 🌟    | [Challenge Link](https://ecml-aaltd.github.io/aaltd2023/challenge.html) |
 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |        *DMKD '23*        |     ClaSP: parameter-free time series segmentation 🌟      | [Clasp](https://sites.google.com/view/ts-parameter-free-clasp/) |
