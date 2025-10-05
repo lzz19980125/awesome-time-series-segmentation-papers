@@ -176,6 +176,7 @@ NOTE: the ranking has no particular order.
 |                             TYPE                             |             Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *SIGMOD '25* | ISSD: Indicator Selection for Time Series State Detection| [ISSD](https://github.com/Lab-ANT/ISSD)![Stars](https://img.shields.io/github/stars/Lab-ANT/ISSD)|
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *MSSP '25* | An evolutionary vehicle scanning method for bridges based on time series segmentation and change point detection| None|
 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | *OE '25* | SteadySeg Improving maritime trajectory staging by steadiness recognition| None|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *AISTATS '24* | Unsupervised Change Point Detection in Multivariate Time Series| None|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *ACM AAIA '24* | Detecting State Correlations between Heterogeneous Time Series| None|
