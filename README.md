@@ -39,6 +39,8 @@ NOTE: the ranking has no particular order.
 
 |     TYPE      |               Venue               |             Paper Title and Paper Interpretation             |                             Code                             |
 | :-----------: | :-------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    Survey     |      *Front. Eng. Manag. '25*      | Change-point detection with deep learning: A review  |                             None                             |
+|    Survey     |      *J R STAT SOC B. (JRSSB) '24*      | Automatic change-point detection in time series via deep learning  |                             None                             |
 |    Survey     |      *Comput. Mater. Con. '24*      | Unsupervised Time Series Segmentation: A Survey on Recent Advances  |                             None                             |
 |    Dataset    |     *DARLI-AP@EDBT/ICDT '23*      | Time Series Segmentation Applied to a New Data Set for Mobile Sensing of Human Activities 🌟 | [MOSAD](https://github.com/ermshaua/mobile-sensing-human-activity-data-set)![Stars](https://img.shields.io/github/stars/ermshaua/mobile-sensing-human-activity-data-set) |
 |    Dataset    |     *ECML-PKDD Workshop '23*      |     Human Activity Segmentation Challenge@ECML/PKDD’23 🌟     | [Challenge Link](https://ecml-aaltd.github.io/aaltd2023/challenge.html) |
@@ -133,6 +135,7 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |          Venue           |           Paper Title and Paper Interpretation            |                             Code                             |
 | :----------------------------------------------------------: | :----------------------: | :-------------------------------------------------------: | :----------------------------------------------------------: |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *Arxiv '25* | CLaP - State Detection from Time Series| [cLaP](https://github.com/ermshaua/classification-label-profile)![Stars](https://img.shields.io/github/stars/ermshaua/classification-label-profile)|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *AALTD '25* | Multivariate Human Activity Segmentation: Systematic Benchmark with ClaSP| [multivariate-clasp](https://github.com/ermshaua/multivariate-clasp)![Stars](https://img.shields.io/github/stars/ermshaua/multivariate-clasp)|
 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) |       *VLDB '24*        | Raising the ClaSS of Streaming Time Series Segmentation 🌟 | [Clasp](https://github.com/ermshaua/classification-score-stream)![Stars](https://img.shields.io/github/stars/ermshaua/classification-score-stream) |
 |                           Dataset                            | *ECML-PKDD Workshop '23* |   Human Activity Segmentation Challenge@ECML/PKDD’23 🌟    | [Challenge Link](https://ecml-aaltd.github.io/aaltd2023/challenge.html) |
@@ -176,7 +179,7 @@ NOTE: the ranking has no particular order.
 |                             TYPE                             |             Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *SIGMOD '25* | ISSD: Indicator Selection for Time Series State Detection| [ISSD](https://github.com/Lab-ANT/ISSD)![Stars](https://img.shields.io/github/stars/Lab-ANT/ISSD)|
-| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *MSSP '25* | An evolutionary vehicle scanning method for bridges based on time series segmentation and change point detection| None|
+| ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | *MSSP '25* | An evolutionary vehicle scanning method for bridges based on time series segmentation and change point detection| None|
 | ![univariate time series forecasting](https://img.shields.io/badge/-Univariate-brightgreen) | *OE '25* | SteadySeg Improving maritime trajectory staging by steadiness recognition| None|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *AISTATS '24* | Unsupervised Change Point Detection in Multivariate Time Series| None|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *ACM AAIA '24* | Detecting State Correlations between Heterogeneous Time Series| None|
