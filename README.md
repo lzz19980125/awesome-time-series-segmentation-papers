@@ -181,6 +181,7 @@ NOTE: the ranking has no particular order.
 
 |                             TYPE                             |             Venue             |             Paper Title and Paper Interpretation             |                             Code                             |
 | :----------------------------------------------------------: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *NeurIPS '25* | Toward Interpretable Evaluation Measures for Time Series Segmentation | [Seg-Eval](https://github.com/fchavelli/seg-eval)![Stars](https://img.shields.io/github/stars/fchavelli/seg-eval)|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *VLDB Ph.D. Workshop '25* | Toward Interpretable Methods for Time Series Analytics| None|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *SIGMOD '25* | ISSD: Indicator Selection for Time Series State Detection| [ISSD](https://github.com/Lab-ANT/ISSD)![Stars](https://img.shields.io/github/stars/Lab-ANT/ISSD)|
 | ![multivariate time series forecasting](https://img.shields.io/badge/-Multivariate-red) | *ICML '25 Workshop* | Do Large Foundation Models Improve Time Series Segmentation An Industrial Case Study in Oil and Gas Drilling| None|
