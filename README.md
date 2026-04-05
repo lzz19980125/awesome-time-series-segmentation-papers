@@ -29,6 +29,26 @@ In the field of time series research, unlike time series forecasting, anomaly de
 
 ## Some Additional Information
 
+## Citation
+
+🚩 2026/4/5: **If you find this repository helpful for your research, please consider citing the following paper:**
+
+> Li, Z., & Wang, L. (2026). **JT3D: Joint temporal segmentation for common pattern discovery in 3D tensor time series via segmented Gaussian modeling and information-gain**. *Neurocomputing, 682*, 133453. https://doi.org/10.1016/j.neucom.2026.133453
+
+```bibtex
+@article{LI2026133453,
+  title = {JT3D: Joint temporal segmentation for common pattern discovery in 3D tensor time series via segmented Gaussian modeling and information-gain},
+  author = {Zezhong Li and Ling Wang},
+  journal = {Neurocomputing},
+  volume = {682},
+  pages = {133453},
+  year = {2026},
+  issn = {0925-2312},
+  doi = {10.1016/j.neucom.2026.133453},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231226008507}
+}
+```
+
 🚩 2024/4/28: **In fact, manually annotating segment points (change points) in large time series datasets is extremely labor-intensive and somewhat subjective. Therefore, the field of time series segmentation lacks large public datasets with ground truth, making it difficult for supervised methods to find sources of training data. Unsupervised time series segmentation also acts to some extent as an automatic annotator of segmentation points, making it easier to implement. Currently, 95% of the research work included in this repository is unsupervised.**
 
 🚩 2024/1/27: **I have marked some recommended papers / datasets / implementations with 🌟 (Just my personal preference 😉).**
