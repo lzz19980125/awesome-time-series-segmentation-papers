@@ -27,8 +27,6 @@ Generally, the subjects of unsupervised semantic segmentation can be categorized
 
 In the field of time series research, unlike time series forecasting, anomaly detection, and classification/clustering, the number of papers on time series segmentation has been somewhat lukewarm in recent years (this observation may carry a degree of subjectivity from the author). Additionally, deep learning methods do not seem to dominate this area as they do in others. Some classic but solid algorithms remain highly competitive even today, with quite a few originating from the same research group. Therefore, in the following paper list, I will introduce them indexed by well-known researchers and research groups in this field.
 
-## Some Additional Information
-
 ## Citation
 
 🚩 2026/4/5: **If you find this repository helpful for your research, please consider citing the following paper:**
@@ -48,6 +46,8 @@ In the field of time series research, unlike time series forecasting, anomaly de
   url = {https://www.sciencedirect.com/science/article/pii/S0925231226008507}
 }
 ```
+
+## Some Additional Information
 
 🚩 2024/4/28: **In fact, manually annotating segment points (change points) in large time series datasets is extremely labor-intensive and somewhat subjective. Therefore, the field of time series segmentation lacks large public datasets with ground truth, making it difficult for supervised methods to find sources of training data. Unsupervised time series segmentation also acts to some extent as an automatic annotator of segmentation points, making it easier to implement. Currently, 95% of the research work included in this repository is unsupervised.**
 
