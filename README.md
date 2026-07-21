@@ -34,7 +34,7 @@ In the field of time series research, unlike time series forecasting, anomaly de
 > Li, Z., & Wang, L. (2026). **JT3D: Joint temporal segmentation for common pattern discovery in 3D tensor time series via segmented Gaussian modeling and information-gain**. *Neurocomputing, 682*, 133453. https://doi.org/10.1016/j.neucom.2026.133453
 
 ```bibtex
-@article{LI2026133453,
+@article{LI2026JT3D,
   title = {JT3D: Joint temporal segmentation for common pattern discovery in 3D tensor time series via segmented Gaussian modeling and information-gain},
   author = {Zezhong Li and Ling Wang},
   journal = {Neurocomputing},
@@ -44,6 +44,29 @@ In the field of time series research, unlike time series forecasting, anomaly de
   issn = {0925-2312},
   doi = {10.1016/j.neucom.2026.133453},
   url = {https://www.sciencedirect.com/science/article/pii/S0925231226008507}
+}
+
+@ARTICLE{Li2025AD2T,
+  author={Li, Zezhong and Guo, Wei and An, Jianpeng and Wang, Qi and Mei, Yingchun and Juan, Rongshun and Wang, Tianshu and Li, Yang and Gao, Zhongke},
+  journal={IEEE Sensors Journal}, 
+  title={AD2T: Multivariate Time-Series Anomaly Detection With Association Discrepancy Dual-Decoder Transformer}, 
+  year={2025},
+  volume={25},
+  number={7},
+  pages={11710-11721},
+  keywords={Anomaly detection;Sensors;Transformers;Training;Time series analysis;Long short term memory;Correlation;Servers;Sensor phenomena and characterization;Measurement;Anomaly detection;association discrepancy;dual-decoder;multivariate time series (MTS);transformer},
+doi={10.1109/JSEN.2025.3543835}}
+
+@article{WANG2026STANAP,
+title = {STANAP: Spatiotemporal adaptive neighborhood-aware prediction with multimodal evolution},
+journal = {Knowledge-Based Systems},
+volume = {348},
+pages = {116346},
+year = {2026},
+issn = {0950-7051},
+doi = {https://doi.org/10.1016/j.knosys.2026.116346},
+url = {https://www.sciencedirect.com/science/article/pii/S0950705126010725},
+author = {Ling Wang and Qinchun Xu and Zezhong Li},
 }
 ```
 
