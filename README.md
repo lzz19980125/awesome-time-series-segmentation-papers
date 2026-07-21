@@ -33,9 +33,9 @@ In the field of time series research, unlike time series forecasting, anomaly de
 
 > **Zezhong Li**, Ling Wang (2026). **JT3D: Joint temporal segmentation for common pattern discovery in 3D tensor time series via segmented Gaussian modeling and information-gain**. *Neurocomputing, 682*, 133453. https://doi.org/10.1016/j.neucom.2026.133453.
 
-> **Zezhong Li**, Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, “AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer,” IEEE Sensors Journal (IEEE Sens J), 2025. https://ieeexplore.ieee.org/document/10906418.
+> **Zezhong Li**, Wei Guo, Jianpeng An, Qi Wang, Yingchun Mei, Rongshun Juan, Tianshu Wang, Yang Li, and Zhongke Gao, **AD2T: Multivariate Time Series Anomaly Detection with Association Discrepancy Dual-Decoder Transformer,** *IEEE Sensors Journal (IEEE Sens J),* 2025. https://ieeexplore.ieee.org/document/10906418.
 
-> Ling Wang, Qinchun Xu, **Zezhong Li**, “STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution,” Knowledge-Based Systems (KBS), 2026. https://doi.org/10.1016/j.knosys.2026.116346.
+> Ling Wang, Qinchun Xu, **Zezhong Li**, **STANAP: Spatiotemporal Adaptive Neighborhood-Aware Prediction with Multimodal Evolution,** *Knowledge-Based Systems (KBS),* 2026. https://doi.org/10.1016/j.knosys.2026.116346.
 
 ```bibtex
 @article{LI2026JT3D,
