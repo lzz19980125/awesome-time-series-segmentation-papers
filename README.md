@@ -4,11 +4,11 @@
 
 ## Star History
 
-<a href="https://www.star-history.com/#lzz19980125/awesome-time-series-segmentation-papers&Date">
+<a href="https://star-history.dera.page/#lzz19980125/awesome-time-series-segmentation-papers&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
+    <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=lzz19980125/awesome-time-series-segmentation-papers&type=Date" />
   </picture>
 </a>
 
